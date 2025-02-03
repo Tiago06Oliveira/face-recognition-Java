@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="lapr1-24-25_DCD_09:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lapr1_24_25_DCD_09_jar</output-path>
+    <root id="root">
+      <element id="archive" name="lapr1-24-25_DCD_09.jar">
+        <element id="module-output" name="lapr1-24-25_DCD_09" />
+      </element>
+      <element id="library" level="project" name="commons-math3-3.6.1" />
+    </root>
+  </artifact>
+</component>
